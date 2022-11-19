@@ -9,3 +9,9 @@ Uninstalling locust-2.13.0:<br>
     `/home//.conda/envs/loadtest/lib/python3.9/site-packages/locust-2.13.0.dist-info/*`<br>
     /home//.conda/envs/loadtest/lib/python3.9/site-packages/locust/*`<br>
 Proceed (Y/n)? <br>
+
+
+<hr>
+
+https://docs.locust.io/en/stable/running-distributed.html#options
+https://medium.com/nerd-for-tech/load-testing-using-locust-io-f3e6e247c74e
